@@ -1,6 +1,6 @@
 # Elysium Arc
 
-Elysium Arc is a collective of four software engineers driven by a passion for open source, learning, and building impactful software. Our goal is to create opportunities to collaborate with big companies, contribute to open source projects, and deliver solutions for clients while continuously improving our skills and experience.
+Elysium Arc is a collective of five software engineers driven by a passion for open source, learning, and building impactful software. Our goal is to create opportunities to collaborate with big companies, contribute to open source projects, and deliver solutions for clients while continuously improving our skills and experience.
 
 ## What We Do
 
